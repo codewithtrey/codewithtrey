@@ -1,10 +1,10 @@
-<h2 align="center">👋 Hello there! I'm Trejon McGee, a Full-Stack Software Engineer.</h2>
+<h2 align="center">👋 Hello there! I'm Trejon McGee, a Software Engineer with expertise in Python, JavaScript, and React.</h2>
 <p style="text-align: center;">
-I'm a highly motivated software engineer with a strong background in Python, JavaScript, Django, React, and RESTful architecture. My technical expertise is complemented by my proficiency in efficiently solving intricate problems through a blend of creative and analytical thinking. My inherent curiosity and passion for bringing concepts to life drive me to remain current with the latest advancements in software development.
+My technical knowledge is complemented by my proficiency in efficiently solving intricate problems through a blend of creative and analytical thinking. My inherent curiosity and passion for bringing concepts to life motivate me to remain current with the latest advancements in software development.
 
 My commitment to excellence drives me to identify opportunities for improvement and to consistently strive for growth. Looking ahead, my aspiration is to contribute to a team that values positive employee experiences and encourages the development of user-friendly and clean code.
 
-If you are looking for a software engineer who brings technical excellence, creativity, and strong communication to your team, I would be excited to hear from you!
+If you are looking for a software engineer who brings technical prowess, creativity, and strong communication to your team, I would be excited to hear from you!
 </p>
 
 ## <div align="center">My Skills</div>

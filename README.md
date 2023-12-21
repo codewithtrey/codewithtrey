@@ -57,7 +57,7 @@ If you are looking for a software engineer who brings technical prowess, creativ
     <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
   </a>  
       </p>
-        <p><strong>React, JavaScript, Python, Django</strong> - Auto is a Single Page Application (SPA) with a specific focus on creating a streamlined car dealership management system. </p>
+        <p><strong>React, JavaScript, Python, Django</strong> - AutoEase is a Single Page Application (SPA) with a specific focus on creating a streamlined car dealership management system. </p>
     </td>
   </tr>
   

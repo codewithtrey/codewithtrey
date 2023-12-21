@@ -29,6 +29,23 @@ If you are looking for a software engineer who brings technical prowess, creativ
       </p>
         <p><strong>React, JavaScript, PostgreSQL</strong> - Prestige Palate is an exculsive global food review application where users can interact with other foodies across the world!</p>
     </td>
+    <td width="50%" valign="top">
+      <h3 align="center">EventPro</h3>
+        <br />
+        <a target="_blank" href="https://github.com/codewithtrey/EventPro">
+            <img src="images/EventPro.gif" width="100%" alt="EventPro"/>
+        </a>
+        <br />
+        <p align="center">
+          
+  <a href="https://github.com/codewithtrey/EventPro" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
+  </a>  
+      </p>
+        <p><strong>React, JavaScript, Python, Django</strong> - EventPro is a Single Page Application (SPA) with a specific focus on creating a streamlined car dealership management system. </p>
+    </td>
+  </tr>
+  
   </table>
 
 ## <div align="center">My Skills</div>

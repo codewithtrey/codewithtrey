@@ -7,6 +7,30 @@ My commitment to excellence drives me to identify opportunities for improvement 
 If you are looking for a software engineer who brings technical prowess, creativity, and strong communication to your team, I would be excited to hear from you!
 </p>
 
+## <div align="center">Projects</div>
+<table bordercolor="#66b2b2">
+  
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">Prestige Palate</h3>
+        <br />
+        <a target="_blank" href="https://mambo-number-5.gitlab.io/prestige-palate/">
+            <img src="images/PrestigePalate.gif" width="100%" alt="Presitge Palate"/>
+        </a>
+        <br />
+        <p align="center">
+          
+  <a href="https://gitlab.com/mambo-number-5/prestige-palate" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
+  </a>  
+  <a href="\https://mambo-number-5.gitlab.io/prestige-palate/" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
+  </a>
+      </p>
+        <p><strong>React, JavaScript, PostgreSQL</strong> - Prestige Palate is an exculsive global food review application where users can interact with other foodies across the world!</p>
+    </td>
+  </table>
+
 ## <div align="center">My Skills</div>
 
 <div align="center">

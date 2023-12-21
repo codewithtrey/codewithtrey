@@ -11,7 +11,7 @@ If you are looking for a software engineer who brings technical prowess, creativ
 <table bordercolor="#66b2b2">
   
   <tr>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
       <h3 align="center">Prestige Palate</h3>
         <br />
         <a target="_blank" href="https://mambo-number-5.gitlab.io/prestige-palate/">
@@ -29,7 +29,7 @@ If you are looking for a software engineer who brings technical prowess, creativ
       </p>
         <p><strong>React, JavaScript, PostgreSQL</strong> - Prestige Palate is an exculsive global food review application where users can interact with other foodies across the world!</p>
     </td>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
       <h3 align="center">EventPro</h3>
         <br />
         <a target="_blank" href="https://github.com/codewithtrey/EventPro">
@@ -42,7 +42,22 @@ If you are looking for a software engineer who brings technical prowess, creativ
     <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
   </a>  
       </p>
-        <p><strong>React, JavaScript, Python, Django</strong> - EventPro is a Single Page Application (SPA) with a specific focus on creating a streamlined car dealership management system. </p>
+        <p><strong>React, JavaScript, Python, Django</strong> - EventPro is a Single Page Application (SPA) designed for efficient event management while incorporating features for conferences, locations, and presentations. </p>
+    </td>
+    <td width="33%" valign="top">
+      <h3 align="center">AutoEase</h3>
+        <br />
+        <a target="_blank" href="https://github.com/codewithtrey/AutoEase">
+            <img src="images/AutoEase.gif" width="100%" alt="AutoEase"/>
+        </a>
+        <br />
+        <p align="center">
+          
+  <a href="https://github.com/codewithtrey/AutoEase" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
+  </a>  
+      </p>
+        <p><strong>React, JavaScript, Python, Django</strong> - Auto is a Single Page Application (SPA) with a specific focus on creating a streamlined car dealership management system. </p>
     </td>
   </tr>
   

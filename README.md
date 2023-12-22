@@ -1,6 +1,6 @@
 <h2 align="center">👋 Hello there! I'm Trejon McGee, a Full-Stack Software Engineer.</h2>
 <p style="text-align: center;">
-Exhibiting technical proficiency in a diverse set of programming languages, system design concepts, and AWS services, I am a software engineer with a passion for crafting robust and scalable solutions that drive business success and elevate user experiences. Continuously refining my skills and embracing new challenges, I thrive in collaborative environments where innovation is valued. My ability to communicate complex technical concepts to both technical and non-technical stakeholders allows me to bridge the gap between development and business objectives effectively. I am dedicated to delivering high-quality software products that not only meet but exceed expectations, and I am always eager to contribute to projects that push the boundaries of what technology can achieve.
+I specialize in building front-end applications that connect with API’s and other back-end frameworks. I’m passionate about learning new technologies and understand there is more than one way to accomplish a task. Though I am most proficient in building front-end applications using HTML, CSS, JavaScript, and React, I am a quick learner and can pick up new tech stacks as needed. I believe that being a great developer is not using one specific language, but choosing the best tool for the job.
 
 If you are looking for a software engineer who brings technical prowess, creativity, and strong communication to your team, I would be excited to hear from you!
 </p>
